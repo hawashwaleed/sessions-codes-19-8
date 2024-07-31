@@ -1,0 +1,10 @@
+100-Donor Registration successfully saved.
+
+RegistrationNo: 33428
+Donor Registered with DonorNo: 22/2
+_____________________________
+____________________________
+out-patient->admitted->
+ SA01.0001263374
+ALGHAMEDI, NADA ABDULLAH
+44467
